@@ -124,5 +124,5 @@ I use GitHub as a home for research code, project pages, experiments, teaching m
   <i>Research, code, and teaching material for intelligent systems that bridge theory and application.</i>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving§ion=footer&height=120&color=0:0f172a,50:0f766e,100:f59e0b" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:0f766e,100:f59e0b&section=footer&textBg=false&fontColor=000000&fontAlignY=50&animation=twinkling" alt="footer" />
 </p>
