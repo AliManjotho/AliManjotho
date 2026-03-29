@@ -20,7 +20,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&color=3A58F7&multiline=true&width=600&separator=%3C&lines=Advancing+AI+through+research-driven+engineering;+Human+Motion+Generation%2C+%3CPose+Estimation%2C+LLM-guided+Systems;+Teaching+building+and+sharing+reproducible+intelligent+systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=3A58F7&center=true&multiline=true&width=750&height=75&separator=%3C&lines=Advancing+AI+through+research-driven+engineering;+Human+Motion+Generation%2C+%3CPose+Estimation%2C+LLM-guided+Systems;+Teaching+building+and+%3Csharing+reproducible+intelligent+systems" alt="Typing SVG" /></a>
 </p>
 ---
 ## About Me
