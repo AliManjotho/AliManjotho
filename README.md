@@ -26,13 +26,14 @@
 I am <b>Dr. Ali Asghar Manjotho</b>, an <b>Assistant Professor</b> in the Department of Computer Systems Engineering at <b>Mehran University of Engineering and Technology, Pakistan</b>.
 My work sits at the intersection of:
 <ul>
-<li>artificial intelligence and machine learning</li>
-<li>human motion generation and interaction modeling</li>
-<li>3D pose estimation and computer vision</li>
-<li>generative AI and LLM-guided systems</li>
-<li>reproducible research software and academic tools</li>
-I use GitHub as a home for research code, project pages, experiments, teaching material, and open technical exploration.
+  <li>Artificial intelligence and machine learning</li>
+  <li>Human motion generation and interaction modeling</li>
+  <li>3D pose estimation and computer vision</li>
+  <li>Generative AI and LLM-guided systems</li>
+  <li>Reproducible research software and academic tools</li>
 </ul>
+I use GitHub as a home for research code, project pages, experiments, teaching material, and open technical exploration.
+
 
 <h2>Research Signature</h2>
 <p align="center">
@@ -108,10 +109,12 @@ I use GitHub as a home for research code, project pages, experiments, teaching m
 </p>
 
 <h2>Current Directions</h2>
-- building research-grade AI systems with practical reproducibility
-- exploring motion diffusion and interaction generation pipelines
-- connecting LLM reasoning with structured computational models
-- creating teaching and research resources for students and collaborators
+  <ul>
+    <li>Building research-grade AI systems with practical reproducibility</li>
+    <li>Exploring motion diffusion and interaction generation pipelines</li>
+    <li>Connecting LLM reasoning with structured computational models</li>
+    <li>Creating teaching and research resources for students and collaborators</li>
+  </ul>
 
 <h2>Connect</h2>
 <p align="center">
