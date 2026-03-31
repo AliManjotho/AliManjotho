@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=3A58F7&center=true&multiline=true&width=750&height=75&separator=%3C&lines=Advancing+AI+through+research-driven+engineering;+Human+Motion+Generation%2C+%3CPose+Estimation%2C+LLM-guided+Systems;+Teaching+building+and+%3Csharing+reproducible+intelligent+systems" alt="Typing SVG" /></a>
 </p>
----
+<hr>
 <h2>About Me</h2>
 I am <b>Dr. Ali Asghar Manjotho</b>, an <b>Assistant Professor</b> in the Department of Computer Systems Engineering at <b>Mehran University of Engineering and Technology, Pakistan</b>.
 My work sits at the intersection of:
@@ -34,8 +34,8 @@ My work sits at the intersection of:
 <li>reproducible research software and academic tools</li>
 I use GitHub as a home for research code, project pages, experiments, teaching material, and open technical exploration.
 </ul>
----
-## Research Signature
+<hr>
+<h2>Research Signature</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Human_Motion_Generation-0f172a?style=flat-square" />
   <img src="https://img.shields.io/badge/Pose_Estimation-0b3b66?style=flat-square" />
@@ -44,8 +44,8 @@ I use GitHub as a home for research code, project pages, experiments, teaching m
   <img src="https://img.shields.io/badge/LLM--Guided_Systems-f59e0b?style=flat-square" />
   <img src="https://img.shields.io/badge/Computer_Vision-334155?style=flat-square" />
 </p>
----
-## Featured Projects
+<hr>
+<h2>Featured Projects</h2>
 <table>
   <tr>
     <td width="50%">
@@ -89,8 +89,8 @@ I use GitHub as a home for research code, project pages, experiments, teaching m
     </td>
   </tr>
 </table>
----
-## Academic Profile
+<hr>
+<h2>Academic Profile</h2>
 <p align="center">
   <a href="https://www.muet.edu.pk">
     <img src="https://img.shields.io/badge/Institution-Mehran_University_of_Engineering_%26_Technology-1e293b?style=for-the-badge" />
@@ -98,8 +98,8 @@ I use GitHub as a home for research code, project pages, experiments, teaching m
   <img src="https://img.shields.io/badge/Location-Pakistan-14532d?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PhD-Beijing_Institute_of_Technology-7c2d12?style=for-the-badge" />
 </p>
----
-## GitHub Analytics
+<hr>
+<h2>GitHub Analytics</h2>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliManjotho&show_icons=true&hide_border=true&count_private=true&title_color=0f766e&icon_color=f59e0b&text_color=cbd5e1&bg_color=0f172a" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliManjotho&layout=compact&hide_border=true&title_color=0f766e&text_color=cbd5e1&bg_color=0f172a" alt="Top languages" />
@@ -107,14 +107,14 @@ I use GitHub as a home for research code, project pages, experiments, teaching m
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliManjotho&hide_border=true&background=0F172A&ring=F59E0B&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=CBD5E1&dates=94A3B8&sideNums=E2E8F0&currStreakNum=FFFFFF" alt="GitHub streak" />
 </p>
----
-## Current Directions
+<hr>
+<h2>Current Directions</h2>
 - building research-grade AI systems with practical reproducibility
 - exploring motion diffusion and interaction generation pipelines
 - connecting LLM reasoning with structured computational models
 - creating teaching and research resources for students and collaborators
----
-## Connect
+<hr>
+<h2>Connect</h2>
 <p align="center">
   <a href="https://orcid.org/0000-0003-1972-3746">ORCID</a> •
   <a href="https://www.linkedin.com/in/alimanjotho/">LinkedIn</a> •
