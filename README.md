@@ -101,10 +101,6 @@ I use GitHub as a home for research code, project pages, experiments, teaching m
 
 <h2>GitHub Analytics</h2>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliManjotho&show_icons=true&hide_border=true&count_private=true&title_color=0f766e&icon_color=f59e0b&text_color=cbd5e1&bg_color=0f172a" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliManjotho&layout=compact&hide_border=true&title_color=0f766e&text_color=cbd5e1&bg_color=0f172a" alt="Top languages" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliManjotho&hide_border=true&background=0F172A&ring=F59E0B&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=CBD5E1&dates=94A3B8&sideNums=E2E8F0&currStreakNum=FFFFFF" alt="GitHub streak" />
 </p>
 
