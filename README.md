@@ -23,15 +23,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=3A58F7&center=true&multiline=true&width=750&height=75&separator=%3C&lines=Advancing+AI+through+research-driven+engineering;+Human+Motion+Generation%2C+%3CPose+Estimation%2C+LLM-guided+Systems;+Teaching+building+and+%3Csharing+reproducible+intelligent+systems" alt="Typing SVG" /></a>
 </p>
 ---
-## About Me
-I am **Dr. Ali Asghar Manjotho**, an **Assistant Professor** in the Department of Computer Systems Engineering at **Mehran University of Engineering and Technology, Pakistan**.
+<h2>About Me</h2>
+I am <b>Dr. Ali Asghar Manjotho</b>, an <b>Assistant Professor</b> in the Department of Computer Systems Engineering at <b>Mehran University of Engineering and Technology, Pakistan</b>.
 My work sits at the intersection of:
-- artificial intelligence and machine learning
-- human motion generation and interaction modeling
-- 3D pose estimation and computer vision
-- generative AI and LLM-guided systems
-- reproducible research software and academic tools
+<ul>
+<li>artificial intelligence and machine learning</li>
+<li>human motion generation and interaction modeling</li>
+<li>3D pose estimation and computer vision</li>
+<li>generative AI and LLM-guided systems</li>
+<li>reproducible research software and academic tools</li>
 I use GitHub as a home for research code, project pages, experiments, teaching material, and open technical exploration.
+</ul>
 ---
 ## Research Signature
 <p align="center">
